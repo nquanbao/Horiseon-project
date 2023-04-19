@@ -21,7 +21,12 @@ If your README is long, add a table of contents to make it easy for users to fin
 ## Installation
 
 What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
-
+#1 Create a repository on GitHub then copy SSH code.
+#2 Create a folder on local computer and then do " Git clone <SHH code>
+#3 Copy files in Develop folder and past in to a folder which is got clone.
+#3 Update the change to GitHub.
+#4 Fix the code with VS Code (index, css, and readme)
+#5 Update the change to GitHub again.
 ## Usage
 
 Provide instructions and examples for use. Include screenshots as needed.
@@ -31,7 +36,7 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
     ```md
     ![alt text](assets/images/screenshot.png)
     ```
-
+![alt sreenshot](assets/images/sreenshot.png)
 ## Credits
 
 List your collaborators, if any, with links to their GitHub profiles.
