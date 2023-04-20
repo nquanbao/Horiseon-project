@@ -5,10 +5,13 @@
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
 - What was your motivation?
+    I like to design a webpage.
 - Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
+    This is my homework assignment. 
 - What problem does it solve?
+    I was given a starter code in a folder called Develop, which I'll modify to complete the challenge. 
 - What did you learn?
-
+    I learned how to create a repository, clone it on my local computer, change and run the code, load it to github and deploye the webpage.
 ## Table of Contents (Optional)
 
 If your README is long, add a table of contents to make it easy for users to find what they need.
@@ -22,7 +25,7 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
 #1 Create a repository on GitHub then copy SSH code.
-#2 Create a folder on local computer and then do " Git clone <SHH code>
+#2 Create a folder on local computer and then do " Git clone <SHH code>"
 #3 Copy files in Develop folder and past in to a folder which is got clone.
 #3 Update the change to GitHub.
 #4 Fix the code with VS Code (index, css, and readme)
